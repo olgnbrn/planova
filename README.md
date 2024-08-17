@@ -264,9 +264,9 @@ Planova Uygulaması, geniş bir kullanıcı kitlesine hitap eder ve farklı yaş
   <details>
     <summary><h2>Burndown Chart</h2></summary>
 
-![Burndown Chart](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_1/Sprint1_Burndown_chart/Sprint1_Burndown_Chart_1.png)
+![Burndown Chart](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_1/Sprint1_Burndown_chart/Sprint1_Burndown_Chart_1.png)
 
-![Burndown Chart](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_1/Sprint1_Burndown_chart/Sprint1_Burndown_Chart_2.png)
+![Burndown Chart](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_1/Sprint1_Burndown_chart/Sprint1_Burndown_Chart_2.png)
 
 
 
@@ -290,7 +290,7 @@ Planova Uygulaması, geniş bir kullanıcı kitlesine hitap eder ve farklı yaş
 - **Point Completion Logic:**
   * A total target of `1200` points was set. In the first sprint, `300` points were targeted because the idea was planned and the designs were made, and were completed. In the second sprint, `450` points are targeted as the focus will be on writing code and adding APIs. In the third sprint, a target of `450` points was set as the remaining tasks would be completed and integration work would be carried out.
 
-- **Daily Scrum:** [Sprint 1 Daily Scrum](https://github.com/olgnbrn/flutter24_bootcamp/tree/main/Project_Management_Files/Sprint_1/Sprint1_Daily_Scrum)
+- **Daily Scrum:** [Sprint 1 Daily Scrum](https://github.com/olgnbrn/planova/tree/main/Project_Management_Files/Sprint_1/Sprint1_Daily_Scrum)
 
 - **Product Backlog URL:** [Asana](https://app.asana.com/0/1207708660563810/1207708543191862)
 
@@ -391,23 +391,23 @@ Planova Uygulaması, geniş bir kullanıcı kitlesine hitap eder ve farklı yaş
 
   ### Login Page
 
-  ![Loginpage](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_2/Sprint2_App_ss/Sprint2_Loginpage.png)
+  ![Loginpage](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_2/Sprint2_App_ss/Sprint2_Loginpage.png)
 
 ---
 ### Today(Home)page
-![Homepage](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_2/Sprint2_App_ss/Sprint2_Todaypage.png)
+![Homepage](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_2/Sprint2_App_ss/Sprint2_Todaypage.png)
 
 ---
 ### Habits Page
-![Habitpage](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_2/Sprint2_App_ss/Sprint2_Habitpage.png)
+![Habitpage](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_2/Sprint2_App_ss/Sprint2_Habitpage.png)
 
 ---
 ### Journal Page
-![Journalpage](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_2/Sprint2_App_ss/Sprint2_journalpage.png)
+![Journalpage](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_2/Sprint2_App_ss/Sprint2_journalpage.png)
 
 ---
 ### Profile Page
-![Profilepage](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_2/Sprint2_App_ss/Sprint2_Profilepage.png)
+![Profilepage](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_2/Sprint2_App_ss/Sprint2_Profilepage.png)
 
 
 
@@ -420,19 +420,19 @@ Planova Uygulaması, geniş bir kullanıcı kitlesine hitap eder ve farklı yaş
 <details>
   <summary><h2>Project Management</h2></summary>
     
-  ![pm_1](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_2/Sprint2_PM/Sprint2_pm_1.png)
-  ![pm_2](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_2/Sprint2_PM/Sprint2_pm_2.png)
-  ![pm_3](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_2/Sprint2_PM/Sprint2_pm_3.png)
-  ![pm_4](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_2/Sprint2_PM/Sprint2_pm_4.png)
+  ![pm_1](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_2/Sprint2_PM/Sprint2_pm_1.png)
+  ![pm_2](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_2/Sprint2_PM/Sprint2_pm_2.png)
+  ![pm_3](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_2/Sprint2_PM/Sprint2_pm_3.png)
+  ![pm_4](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_2/Sprint2_PM/Sprint2_pm_4.png)
 </details>
 
 ---
   <details>
     <summary><h2>Burndown Chart</h2></summary>
 
-  ![Burndown Chart](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_2/Sprint2_Burndown_chart/Sprint2_Burndown_Chart_1.png)
+  ![Burndown Chart](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_2/Sprint2_Burndown_chart/Sprint2_Burndown_Chart_1.png)
 
-  ![Burndown Chart](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_2/Sprint2_Burndown_chart/Sprint2_Burndown_Chart_2.png)
+  ![Burndown Chart](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_2/Sprint2_Burndown_chart/Sprint2_Burndown_Chart_2.png)
     
   </details>
 
@@ -454,7 +454,7 @@ Planova Uygulaması, geniş bir kullanıcı kitlesine hitap eder ve farklı yaş
 - **Point Completion Logic:**
   * A total target of `1200` points was set. `300` points were completed in the first sprint. In the second sprint, the overall completion of the codes was requested, a target of `450` points was set and completed. In the third sprint, a target of `450` points was set as the remaining tasks would be completed and integration work would be carried out.
 
-- **Daily Scrum:**  [Sprint 2 Daily Scrum](https://github.com/olgnbrn/flutter24_bootcamp/tree/main/Project_Management_Files/Sprint_2/Sprint2_Daily_Scrum)
+- **Daily Scrum:**  [Sprint 2 Daily Scrum](https://github.com/olgnbrn/planova/tree/main/Project_Management_Files/Sprint_2/Sprint2_Daily_Scrum)
 
 - **Product Backlog URL:** [Asana](https://app.asana.com/0/1207708660563810/1207708543191862)
 
@@ -548,33 +548,33 @@ Planova Uygulaması, geniş bir kullanıcı kitlesine hitap eder ve farklı yaş
 
 ### Login Page
 
-![Loginpage](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_3/Sprint3_App_ss/Sprint3_Login_Page.png)
+![Loginpage](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_3/Sprint3_App_ss/Sprint3_Login_Page.png)
 
 ---
 ### Today(Home)page
 
-![Homepage](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_3/Sprint3_App_ss/Sprint3_today_page.png)
+![Homepage](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_3/Sprint3_App_ss/Sprint3_today_page.png)
 
 ---
 ### Habits Page
 
-![Habitpage](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_3/Sprint3_App_ss/Sprint3_habit_page.png)
+![Habitpage](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_3/Sprint3_App_ss/Sprint3_habit_page.png)
 
 ---
 ### Journal Page
 
-![Journalpage](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_3/Sprint3_App_ss/Sprint3_journal_page.png)
+![Journalpage](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_3/Sprint3_App_ss/Sprint3_journal_page.png)
 
 ---
 ### Profile Page
 
-![Profilepage](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_3/Sprint3_App_ss/Sprint3_Profile_page.png)
+![Profilepage](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_3/Sprint3_App_ss/Sprint3_Profile_page.png)
 
 ---
 
 ### Menu Screen
 
-![Menuscreen](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_3/Sprint3_App_ss/Sprint3_menu_scren.png)
+![Menuscreen](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_3/Sprint3_App_ss/Sprint3_menu_scren.png)
 
    
 </details>
@@ -584,25 +584,25 @@ Planova Uygulaması, geniş bir kullanıcı kitlesine hitap eder ve farklı yaş
 <details>
   <summary><h2>Project Management</h2></summary>
 
-![pm_1](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_3/Sprint3_PM/Sprint3_pm_1.png)
+![pm_1](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_3/Sprint3_PM/Sprint3_pm_1.png)
 
-![pm_2](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_3/Sprint3_PM/Sprint3_pm_2.png)
+![pm_2](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_3/Sprint3_PM/Sprint3_pm_2.png)
 
-![pm_3](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_3/Sprint3_PM/Sprint3_pm_3.png)
+![pm_3](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_3/Sprint3_PM/Sprint3_pm_3.png)
 
-![pm_4](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_3/Sprint3_PM/Sprint3_pm_4.png)
+![pm_4](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_3/Sprint3_PM/Sprint3_pm_4.png)
 
-![pm_1](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_3/Sprint3_PM/Sprint3_pm_5.png)
+![pm_1](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_3/Sprint3_PM/Sprint3_pm_5.png)
 </details>
 
 ---
   <details>
     <summary><h2>Burndown Chart</h2></summary>
 
-![Burndown Chart](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_3/Sprint3_Burndown_Chart/Sprint3_Burndown_Chart_1.png)
+![Burndown Chart](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_3/Sprint3_Burndown_Chart/Sprint3_Burndown_Chart_1.png)
 
 
-![Burndown Chart](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_3/Sprint3_Burndown_Chart/Sprint3_Burndown_Chart_2.png)
+![Burndown Chart](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_3/Sprint3_Burndown_Chart/Sprint3_Burndown_Chart_2.png)
 
   </details>
 
@@ -625,7 +625,7 @@ Planova Uygulaması, geniş bir kullanıcı kitlesine hitap eder ve farklı yaş
 - **Point Completion Logic:**
   * A total target of `1200` points was set. `300` points were completed in the first sprint. In the second sprint, `450` points were completed. In the third sprint, since the remaining tasks will be completed and integration studies will be carried out, a target of `450` points was set and `500` points were completed on the last day.
 
-- **Daily Scrum:**  [Sprint 3 Daily Scrum](https://github.com/olgnbrn/flutter24_bootcamp/tree/main/Project_Management_Files/Sprint_3/Sprint3_Daily_Scrum)
+- **Daily Scrum:**  [Sprint 3 Daily Scrum](https://github.com/olgnbrn/planova/tree/main/Project_Management_Files/Sprint_3/Sprint3_Daily_Scrum)
 
 - **Product Backlog URL:** [Asana](https://app.asana.com/0/1207708660563810/1207708543191862)
 
@@ -658,9 +658,9 @@ Planova Uygulaması, geniş bir kullanıcı kitlesine hitap eder ve farklı yaş
   * The team gathered together on the Discord platform, everyone congratulated each other, watched a video together, and it was decided that Olgun and Melisa would start preparing for the jury presentation.
 
 - **Additional Files:**
-   * [Express Consent Agreement](https://github.com/olgnbrn/flutter24_bootcamp/tree/main/Project_Management_Files/Sprint_3/Sprint3_Additional_Files/Planova_Acik_Riza_Sözleşmesi.pdf)
-   * [Customer Clarification Text File](https://github.com/olgnbrn/flutter24_bootcamp/tree/main/Project_Management_Files/Sprint_3/Sprint3_Additional_Files/Planova_Kisisel_Verilerin_Korunması_Aydınlatma_Metni.pdf)
-   * [User Agreement](https://github.com/olgnbrn/flutter24_bootcamp/tree/main/Project_Management_Files/Sprint_3/Sprint3_Additional_Files/Planova_Kullanıcı_Sozlesmesi.pdf)
+   * [Express Consent Agreement](https://github.com/olgnbrn/planova/tree/main/Project_Management_Files/Sprint_3/Sprint3_Additional_Files/Planova_Acik_Riza_Sözleşmesi.pdf)
+   * [Customer Clarification Text File](https://github.com/olgnbrn/planova/tree/main/Project_Management_Files/Sprint_3/Sprint3_Additional_Files/Planova_Kisisel_Verilerin_Korunması_Aydınlatma_Metni.pdf)
+   * [User Agreement](https://github.com/olgnbrn/planova/tree/main/Project_Management_Files/Sprint_3/Sprint3_Additional_Files/Planova_Kullanıcı_Sozlesmesi.pdf)
 
 
 
@@ -720,7 +720,7 @@ Planova Uygulaması, geniş bir kullanıcı kitlesine hitap eder ve farklı yaş
 </details>
 
 ---
-![Endnotes](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/General_Documents/Github_Pages_Images/Endnotes.png)
+![Endnotes](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/General_Documents/Github_Pages_Images/Endnotes.png)
 
 ---
 
@@ -748,7 +748,7 @@ Planova Uygulaması, geniş bir kullanıcı kitlesine hitap eder ve farklı yaş
 <details>
   <summary><h2>Tech Tree</h2></summary>
 
-  ![Tech_tree](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/General_Documents/Planova_tech_tree.png)
+  ![Tech_tree](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/General_Documents/Planova_tech_tree.png)
 
 
 </details>
@@ -758,7 +758,7 @@ Planova Uygulaması, geniş bir kullanıcı kitlesine hitap eder ve farklı yaş
 <details>
   <summary><h2>Lean Canvas</h2></summary>
 
-  ![Lean Canvas](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/General_Documents/Lean_canvas.png)  
+  ![Lean Canvas](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/General_Documents/Lean_canvas.png)  
   
 </details>
 
@@ -767,7 +767,7 @@ Planova Uygulaması, geniş bir kullanıcı kitlesine hitap eder ve farklı yaş
 <details>
   <summary><h2>Website</h2></summary>
 
-[![PlanovApp Website](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/General_Documents/Website_Photo.png)](https://planovapp.com/)
+[![PlanovApp Website](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/General_Documents/Website_Photo.png)](https://planovapp.com/)
 
   
 ## Follow Us on LinkedIn
