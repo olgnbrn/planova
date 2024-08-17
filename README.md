@@ -1,4 +1,4 @@
-![Planova](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/General_Documents/Github_Pages_Images/Planova.png)
+![Planova](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/General_Documents/Github_Pages_Images/Planova.png)
 
 
 ---
@@ -87,7 +87,7 @@ Sonuç olarak, zamanı doğru yönetmek, yaşamın her alanında başarıya ula�
   * **Feedback and Support:** Allows users to provide feedback about the app and receive support.
   * **About:** Provides information about the app, mission and vision statements, and details about the development team.
 
-**Frequently Asked Questions:** [FAQ](https://github.com/olgnbrn/flutter24_bootcamp/tree/main/Project_Management_Files/General_Documents/FAQ_English.pdf)
+**Frequently Asked Questions:** [FAQ](https://github.com/olgnbrn/planova/tree/main/Project_Management_Files/General_Documents/FAQ_English.pdf)
 
 <details>
     <summary><h4>Turkish explanation</h4></summary>
@@ -167,7 +167,7 @@ Planova application appeals to a wide range of users and offers features for peo
   * **Common Goal Setting:** Groups of friends or business teams who want to work together by setting common goals.
   * **Increasing Motivation:** Those who want to increase group motivation by using the joint goal tracking feature.
 
-**Persona File:** [Persona](https://github.com/olgnbrn/flutter24_bootcamp/tree/main/Project_Management_Files/General_Documents/Persona_English.pdf) 
+**Persona File:** [Persona](https://github.com/olgnbrn/planova/tree/main/Project_Management_Files/General_Documents/Persona_English.pdf) 
 
 <details>
     <summary><h4>Turkish explanation</h4></summary>
@@ -194,7 +194,7 @@ Planova Uygulaması, geniş bir kullanıcı kitlesine hitap eder ve farklı yaş
   * **Ortak Hedef Belirleme:** Ortak hedefler belirleyerek birlikte çalışmak isteyen arkadaş grupları veya iş takımları.
   * **Motivasyon Artırma:** Birlikte hedef takibi özelliğini kullanarak grup motivasyonunu artırmak isteyenler.
 
-**Persona Dosyası:** [Personalar](https://github.com/olgnbrn/flutter24_bootcamp/tree/main/Project_Management_Files/General_Documents/Persona_Turkce.pdf) 
+**Persona Dosyası:** [Personalar](https://github.com/olgnbrn/planova/tree/main/Project_Management_Files/General_Documents/Persona_Turkce.pdf) 
     
   </details>
   
@@ -202,7 +202,7 @@ Planova Uygulaması, geniş bir kullanıcı kitlesine hitap eder ve farklı yaş
 
 ---
 
-![Sprints](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/General_Documents/Github_Pages_Images/Sprints.png)
+![Sprints](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/General_Documents/Github_Pages_Images/Sprints.png)
 
 ---
 <details>
@@ -213,27 +213,27 @@ Planova Uygulaması, geniş bir kullanıcı kitlesine hitap eder ve farklı yaş
     <summary><h2>App Screenshots</h2></summary>
 
 ### Login Page
-![Loginpage](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_1/Sprint1_App_ss/Sprint1_Loginpage_UI.png)
+![Loginpage](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_1/Sprint1_App_ss/Sprint1_Loginpage_UI.png)
 
 ---
 ### Today(Home)page
-![Homepage](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_1/Sprint1_App_ss/Sprint1_Homepage_UI.png)
+![Homepage](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_1/Sprint1_App_ss/Sprint1_Homepage_UI.png)
 
 ---
 ### Habits Page
-![Habitpage](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_1/Sprint1_App_ss/Sprint1_Habitpage_UI.png)
+![Habitpage](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_1/Sprint1_App_ss/Sprint1_Habitpage_UI.png)
 
 ---
 ### Journal Page
-![Habitpage](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_1/Sprint1_App_ss/Spritn1_Journalpage_UI.png)
+![Habitpage](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_1/Sprint1_App_ss/Spritn1_Journalpage_UI.png)
 
 ---
 ### Profile Page
-![Habitpage](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_1/Sprint1_App_ss/Sprint1_Profilepage_UI.png)
+![Habitpage](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_1/Sprint1_App_ss/Sprint1_Profilepage_UI.png)
 
 ---
 ### Settings Page
-<img src="https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_1/Sprint1_App_ss/Sprint1_settingspage_UI.png" width="500">
+<img src="https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_1/Sprint1_App_ss/Sprint1_settingspage_UI.png" width="500">
 
 
 
@@ -244,7 +244,7 @@ Planova Uygulaması, geniş bir kullanıcı kitlesine hitap eder ve farklı yaş
   <details>
     <summary><h2>App Map</h2></summary>
 
-![App Flowchart](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_1/Sprint1_App_Map/Sprint1_App_Map.png)
+![App Flowchart](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_1/Sprint1_App_Map/Sprint1_App_Map.png)
    
   </details>
 
@@ -252,11 +252,11 @@ Planova Uygulaması, geniş bir kullanıcı kitlesine hitap eder ve farklı yaş
   <details>
     <summary><h2>Project Management</h2></summary>
     
-![pm_1](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_1/Sprint1_PM/Sprint1_pm_1.png)
-![pm_2](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_1/Sprint1_PM/Sprint1_pm_2.png)
-![pm_3](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_1/Sprint1_PM/Sprint1_pm_3.png)
-![pm_4](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_1/Sprint1_PM/Sprint1_pm_4.png)
-![pm_5](https://github.com/olgnbrn/flutter24_bootcamp/raw/main/Project_Management_Files/Sprint_1/Sprint1_PM/Sprint1_pm_5.png)
+![pm_1](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_1/Sprint1_PM/Sprint1_pm_1.png)
+![pm_2](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_1/Sprint1_PM/Sprint1_pm_2.png)
+![pm_3](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_1/Sprint1_PM/Sprint1_pm_3.png)
+![pm_4](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_1/Sprint1_PM/Sprint1_pm_4.png)
+![pm_5](https://github.com/olgnbrn/planova/raw/main/Project_Management_Files/Sprint_1/Sprint1_PM/Sprint1_pm_5.png)
    
   </details>
 
