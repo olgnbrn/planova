@@ -10,8 +10,6 @@
 | <a href="https://github.com/melisalparslan" style="text-decoration:none; color:blue;">Melisa Nur Alparslan</a> | Scrum Master | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/melisanuralparslan/) |
 | <a href="https://github.com/olgnbrn" style="text-decoration:none; color:blue;">Olgun Baran Atik</a> | Product Owner | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/olgun-baran-atik/) |
 | <a href="https://github.com/Ulwus" style="text-decoration:none; color:blue;">Oğuzhan Gündüz</a> | Developer | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://linkedin.com/in/ulwus) |
-| <a href="https://github.com/onurtturan" style="text-decoration:none; color:blue;">Onur Turan</a> | Developer | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/onurtturan/) |
-| <a href="https://github.com/MeltemKocak" style="text-decoration:none; color:blue;">Meltem Sena Koçak</a> | Developer | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/meltemkocak/) |
 
 
 
